@@ -1,0 +1,4 @@
+//currying
+const myFunc = () =>{
+    
+}
